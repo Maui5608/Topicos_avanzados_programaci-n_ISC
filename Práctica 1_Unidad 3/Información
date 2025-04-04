@@ -1,1 +1,15 @@
-
+Como primera entrega o avance del proyecto tenemos lo que es el concepto del diseño del programa. 
+El programa contara con 2 paginas, la primera sera para ver todos los pedidos registrados y la otra 
+pagina sera para hacer esos registros.
+El app.py y el index.html son de la pagina 1 y como se menciona anteriormente, solo es un concepto 
+del diseño de la pagina de como se vera y funcionara.
+La pagina 1 tendra como primera función el boton de "Añadir cuenta", que al darle clic se debe
+mostrar lo que es la segunda pagina para hacer los registros como se puede ver en la "2da imagen",
+pero todavia le falta diseño y funciones a esa pagina.
+Otra función de la pagina 1 es el poder editar cada registro o en este caso cada "orden" que se
+realice y como adicional marcar esa orden para saber si es para llevar o no.
+Lo que deberia mostrar la pagina 1 es el numero de los registros que se manejaran por "Folio",
+el numero de "Mesa" de esa orden y el "total" a pagar de esa orden, mas adelante se planea que
+halla otra función o boton que permita ver toda la orden y el valor de cada producto, por ejemplo,
+que al darle a ese boton se muestre que se ordeno "Un desayuno de $100", "Un cafe de $40" y
+"Un postre de $25" y que se vea el total ($165).
